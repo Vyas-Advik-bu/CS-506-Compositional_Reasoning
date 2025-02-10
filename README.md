@@ -1,1 +1,1 @@
-# CS-506-Compositional_Reasoning
+# CS-598-Compositional_Reasoning
